@@ -1,4 +1,9 @@
-# zenmoney-dashboard
+# ZenMoney Dashboard
+
+![GitHub License](https://img.shields.io/github/license/nemirlev/zenexport)
+![Docker Pulls](https://img.shields.io/docker/pulls/nemirlev/zenexport)
+![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nemirlev/zenexport)
+![Docker Image Version (latest by date)](https://img.shields.io/docker/v/nemirlev/zenexport)
 
 ZenMoney Dashboard - позволит анализировать свои финансы из ДзенМани
 
