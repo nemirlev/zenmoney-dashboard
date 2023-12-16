@@ -77,7 +77,7 @@ clickhouse-client --user=${CLICKHOUSE_USER} --password=${CLICKHOUSE_PASSWORD} -n
         parent        Nullable(String),
         icon          Nullable(String),
         picture       Nullable(String),
-        color         Nullable(Int32),
+        color         Nullable(Int64),
         show_income    UInt8,
         show_outcome   UInt8,
         budget_income  UInt8,
