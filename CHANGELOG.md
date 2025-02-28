@@ -10,6 +10,10 @@ All notable changes to this project will be documented in this file.
 - Добавил генерацию лога изменений
 - Добавил генерирацию лога изменений
 
+### 🐛 Bug Fixes
+
+- App image version
+
 ## [1.0.1] - 2023-12-16
 
 ### 🐛 Bug Fixes
