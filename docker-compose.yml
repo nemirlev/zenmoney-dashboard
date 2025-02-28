@@ -2,7 +2,7 @@ version: "3"
 
 services:
   app:
-    image: nemirlev/zenexport:1.2.1
+    image: nemirlev/zenexport:v1.4.2
     env_file: .env
     depends_on:
       clickhouse:
