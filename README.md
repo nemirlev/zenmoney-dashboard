@@ -1,5 +1,9 @@
 # ZenMoney Dashboard
 
+> [!WARNING]
+> **Проект находится в архиве и будет удалён после 1 октября 2026 года.**
+> Вместо него используйте [MCP из репозитория zenmoney-export](https://github.com/nemirlev/zenmoney-export) — он умеет строить графики.
+
 ![GitHub License](https://img.shields.io/github/license/nemirlev/zenexport)
 ![Docker Pulls](https://img.shields.io/docker/pulls/nemirlev/zenexport)
 ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/nemirlev/zenexport)
